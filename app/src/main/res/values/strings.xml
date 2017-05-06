@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Automatic Image Colorization</string>
+    <string name="title_activity_about">about</string>
+</resources>
